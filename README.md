@@ -3,7 +3,7 @@
 An exploratory data analysis (EDA) of 614 bank loan applications, with an interactive dashboard.
 The project asks one question: **which applicant details are actually associated with a loan being approved?**
 
-**Live dashboard:** `https://bank-loan-approval-eda-a7shj9ji7j4yufqer3min7.streamlit.app/`
+**Live dashboard:** https://bank-loan-approval-eda-a7shj9ji7j4yufqer3min7.streamlit.app/
 
 > EDA shows associations, not causes. Nothing here is a lending decision tool.
 
