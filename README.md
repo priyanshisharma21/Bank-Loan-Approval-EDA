@@ -1,2 +1,1 @@
-# Bank-Loan-Approval-EDA
-Bank Loan Approval Data Exploration using Python
+# Data-Analytic-project
