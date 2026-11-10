@@ -120,3 +120,4 @@ The sidebar filters (property area and education) apply to every page.
 ## Resume summary
 
 Performed exploratory data analysis on 614 bank loan applications using Python, Pandas, NumPy, Matplotlib and Seaborn. Cleaned missing values, analysed income, loan amount, credit history and customer groups, and found that credit history is the strongest factor associated with approval (79.0% approved with good credit history against 7.9% without). Built and deployed an interactive Streamlit dashboard as a team project.
+git
